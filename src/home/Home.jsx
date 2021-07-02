@@ -5,8 +5,11 @@ const Home = () => {
     return (
         <div className="home">
            <Navbar/>
-        </div>
-    )
-}
+           <img width="100%" src="https://pressbooks.com/app/uploads/sites/47296/2015/12/Asian-Girl-iPad.jpg" alt="photo" />
 
+           </div>
+             )
+            }
+            
 export default Home
+            
